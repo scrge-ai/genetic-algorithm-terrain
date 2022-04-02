@@ -1,0 +1,3 @@
+change visibility of bots so that only the most fit bot of this generation is seen; other bots will have lower opacity or smth
+
+fix two bots in the middle not doing anything
